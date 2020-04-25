@@ -17,4 +17,5 @@ Grade: 88.00%
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-https://github.com/npetrelli/Introduction-to-C--Unity/blob/master/certificate.jpg
+![alt text](https://github.com/npetrelli/Introduction-to-C--Unity/blob/master/certificate.jpg "Certificate")
+
