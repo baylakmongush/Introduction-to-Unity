@@ -16,5 +16,3 @@ Module 5: Complete final peer review and take "Final Exam"
 Grade: 88.00%
 
 ---------------------------------------------------------------------------------------------------------------------------
-
-https://coursera.org/share/c63f003a5654e28d3497065e04a1a9c0
