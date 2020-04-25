@@ -1,0 +1,7 @@
+C:\Users\mongu\source\repos\ProgrammingAssigment1\bin\Debug\ProgrammingAssigment1.exe.config
+C:\Users\mongu\source\repos\ProgrammingAssigment1\bin\Debug\ProgrammingAssigment1.exe
+C:\Users\mongu\source\repos\ProgrammingAssigment1\bin\Debug\ProgrammingAssigment1.pdb
+C:\Users\mongu\source\repos\ProgrammingAssigment1\obj\Debug\ProgrammingAssigment1.csprojAssemblyReference.cache
+C:\Users\mongu\source\repos\ProgrammingAssigment1\obj\Debug\ProgrammingAssigment1.csproj.CoreCompileInputs.cache
+C:\Users\mongu\source\repos\ProgrammingAssigment1\obj\Debug\ProgrammingAssigment1.exe
+C:\Users\mongu\source\repos\ProgrammingAssigment1\obj\Debug\ProgrammingAssigment1.pdb
